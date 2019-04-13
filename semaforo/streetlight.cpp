@@ -1,3 +1,8 @@
+/*!
+ * \file streetlight.cpp.
+ *
+ * \brief StreetLight class Implementation.
+ */
 #include "streetlight.h"
 
 static sf::Color background = sf::Color(100, 100, 100);
